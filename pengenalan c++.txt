@@ -1,0 +1,21 @@
+apa itu c++?
+C ++ adalah bahasa lintas platform yang dapat digunakan untuk membuat aplikasi berkinerja tinggi.
+
+C ++ dikembangkan oleh Bjarne Stroustrup, sebagai perluasan dari bahasa C.
+
+C ++ memberi programmer kendali tingkat tinggi atas sumber daya sistem dan memori.
+
+Bahasa ini diperbarui 3 kali utama pada tahun 2011, 2014, dan 2017 ke C ++ 11, C ++ 14, dan C ++ 17.
+
+mengapa menggunakan c++?
+C ++ adalah salah satu bahasa pemrograman terpopuler di dunia.
+
+C ++ dapat ditemukan di sistem operasi saat ini, Antarmuka Pengguna Grafis, dan sistem tertanam.
+
+C ++ adalah bahasa pemrograman berorientasi objek yang memberikan struktur yang jelas pada program dan memungkinkan kode untuk digunakan kembali, sehingga menurunkan biaya pengembangan.
+
+C ++ bersifat portabel dan dapat digunakan untuk mengembangkan aplikasi yang dapat disesuaikan dengan berbagai platform.
+
+C ++ menyenangkan dan mudah dipelajari!
+
+Karena C ++ dekat dengan C # dan Java, ini memudahkan pemrogram untuk beralih ke C ++ atau sebaliknya
